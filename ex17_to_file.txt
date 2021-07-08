@@ -1,0 +1,4 @@
+Ruby can be used to write Common Gateway Interface (CGI) scripts.
+Ruby can be embedded into Hypertext Markup Language (HTML).
+Ruby has a clean and easy syntax that allows a new developer to learn very quickly and easily.
+Ruby has similar syntax to that of many programming languages such as C++ and Perl.
