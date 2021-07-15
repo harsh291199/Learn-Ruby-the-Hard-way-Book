@@ -1,0 +1,3 @@
+Ruby is a true object-oriented programming language.
+Ruby can be embedded into Hypertext Markup Language (HTML).
+Ruby is a general-purpose, interpreted programming language.
